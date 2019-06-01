@@ -1,5 +1,5 @@
 # Ping-Pong-Game-Assignment
-A Ping Pong Based Game that I designed for my 1st Assignment in 1st Year using Processing 3 Java Software which can be downloaded [here](https://processing.org/download/). This project was greatly inspired by infamous classic game called Ping Pong. I chose to develop this game because I've always loved playing Ping Pong when I was younger.
+A Ping Pong Based Game that I developed for my 1st Assignment in 1st Year using Processing 3 Java Software which can be downloaded [here](https://processing.org/download/). This project was greatly inspired by infamous classic game called Ping Pong. I chose to develop this game because I've always loved playing Ping Pong when I was younger.
 
 
 <img src="IMG/Screenshot%20(94).png" width="800">
